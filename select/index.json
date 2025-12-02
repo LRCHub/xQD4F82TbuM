@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "花鳥風月",
+  "base_artist": "SEKAI NO OWARI",
+  "createdAt": "2025-12-02T11:48:17.968885Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "花鳥風月",
+      "artist": "Suara",
+      "has_synced": false,
+      "path": "select/01_花鳥風月_Suara.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "花鳥風月",
+      "artist": "Suara",
+      "has_synced": true,
+      "path": "select/02_花鳥風月_Suara.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "花鳥風月",
+      "artist": "Liyuu",
+      "has_synced": true,
+      "path": "select/03_花鳥風月_Liyuu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "花鳥風月",
+      "artist": "Ketsumeishi",
+      "has_synced": true,
+      "path": "select/04_花鳥風月_Ketsumeishi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "花鳥風月",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/05_花鳥風月_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "花鳥風月",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/06_花鳥風月_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "花鳥風月",
+      "artist": "COALAMODE.",
+      "has_synced": false,
+      "path": "select/07_花鳥風月_COALAMODE..txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "花鳥風月",
+      "artist": "COALAMODE.",
+      "has_synced": true,
+      "path": "select/08_花鳥風月_COALAMODE..lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "花鳥風月",
+      "artist": "ケツメイシ",
+      "has_synced": true,
+      "path": "select/09_花鳥風月_ケツメイシ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "花鳥風月",
+      "artist": "優里",
+      "has_synced": true,
+      "path": "select/10_花鳥風月_優里.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "花鳥風月",
+      "artist": "ケツメイシ",
+      "has_synced": true,
+      "path": "select/11_花鳥風月_ケツメイシ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "花鳥風月(Album Mix)",
+      "artist": "ケツメイシ",
+      "has_synced": true,
+      "path": "select/12_花鳥風月(Album_Mix)_ケツメイシ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "花鳥風月",
+      "artist": "コアラモード.",
+      "has_synced": true,
+      "path": "select/13_花鳥風月_コアラモード..lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "花鳥風月 (Album Mix)",
+      "artist": "Ketsumeishi",
+      "has_synced": true,
+      "path": "select/14_花鳥風月_(Album_Mix)_Ketsumeishi.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "花鳥風月",
+      "artist": "Fourpe (cv.URASHIMASAKATASEN)",
+      "has_synced": false,
+      "path": "select/15_花鳥風月_Fourpe_(cv.URASHIMASAKATASEN).txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "花鳥風月 (Album Mix)",
+      "artist": "ケツメイシ",
+      "has_synced": true,
+      "path": "select/16_花鳥風月_(Album_Mix)_ケツメイシ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "花鳥風月",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": false,
+      "path": "select/pl_01_花鳥風月_SEKAI_NO_OWARI.txt"
+    }
+  ]
+}
